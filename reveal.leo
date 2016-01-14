@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -37,8 +37,22 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160111030251.1"><vh>@edit 40423131_cp_w0.md</vh></v>
+<v t="leo.20160111030255.1"><vh>@edit 40423131_cp_w1.md</vh></v>
+<v t="leo.20160111030259.1"><vh>@edit 40423131_cp_w2.md</vh></v>
+<v t="leo.20160111030303.1"><vh>@edit 40423131_cp_w3.md</vh></v>
+<v t="leo.20160111030308.1"><vh>@edit 40423131_cp_w4.md</vh></v>
+<v t="leo.20160111030313.1"><vh>@edit 40423131_cp_w5.md</vh></v>
+<v t="leo.20160111030319.1"><vh>@edit 40423131_cp_w6.md</vh></v>
+<v t="leo.20160111030325.1"><vh>@edit 40423131_cp_w7.md</vh></v>
+<v t="leo.20160111030331.1"><vh>@edit 40423131_cp_w8.md</vh></v>
+<v t="leo.20160115014533.1"><vh>@edit 40423131_cp_w11.md</vh></v>
+<v t="leo.20160115014541.1"><vh>@edit 40423131_cp_w12.md</vh></v>
+<v t="leo.20160115014546.1"><vh>@edit 40423131_cp_w13.md</vh></v>
+<v t="leo.20160111030336.1"><vh>@edit 40423131_cp_w14.md</vh></v>
+<v t="leo.20160111030341.1"><vh>@edit 40423131_cp_w15.md</vh></v>
+<v t="leo.20160111030347.1"><vh>@edit 40423131_cp_w16.md</vh></v>
+<v t="leo.20160111030353.1"><vh>@edit 40423131_cp_w17.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -284,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -299,6 +313,19 @@
 </v>
 </v>
 </v>
+<v t="leo.20160111030557.3"><vh>@clean 40423131_cp_w0_p.html</vh></v>
+<v t="leo.20160111030557.4"><vh>@clean 40423131_cp_w1_p.html</vh></v>
+<v t="leo.20160111030557.5"><vh>@clean 40423131_cp_w2_p.html</vh></v>
+<v t="leo.20160111030557.6"><vh>@clean 40423131_cp_w3_p.html</vh></v>
+<v t="leo.20160111030557.7"><vh>@clean 40423131_cp_w4_p.html</vh></v>
+<v t="leo.20160111030557.8"><vh>@clean 40423131_cp_w5_p.html</vh></v>
+<v t="leo.20160111030557.9"><vh>@clean 40423131_cp_w6_p.html</vh></v>
+<v t="leo.20160111030557.10"><vh>@clean 40423131_cp_w7_p.html</vh></v>
+<v t="leo.20160111030557.11"><vh>@clean 40423131_cp_w8_p.html</vh></v>
+<v t="leo.20160115014511.1"><vh>@clean 40423131_cp_w11_p.html</vh></v>
+<v t="leo.20160115014515.1"><vh>@clean 40423131_cp_w12_p.html</vh></v>
+<v t="leo.20160115014520.1"><vh>@clean 40423131_cp_w13_p.html</vh></v>
+<v t="leo.20160111030557.12"><vh>@clean 40423131_cp_w14_p.html</vh></v>
 <v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
@@ -2237,5 +2264,1086 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20160111030557.10">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第七週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+       &lt;h1&gt;python&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;python是一種電腦語言,比其他電腦語言例如:Java、C++還簡單,
+    而且運用範圍廣大，不只計算、編寫伺服器、正是在學的管理倉
+    儲,都可以用python來完成,並且大部分的python軟體都是免費的!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;剛開始說真的不知道在幹嘛，但照著老
+    師一步一步做，勉勉強強能做出一些東西，
+    可能只是還沒跟上速度吧!希望之後的幾堂課
+    能夠慢慢追上。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;覺得還需加強，我給自己打70分。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111030557.11">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第八週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+       &lt;h1&gt;python&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;python是一種電腦語言,比其他電腦語言例如:Java、C++還簡單,
+    而且運用範圍廣大，不只計算、編寫伺服器、正是在學的管理倉
+    儲,都可以用python來完成,並且大部分的python軟體都是免費的!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;剛開始說真的不知道在幹嘛，但照著老
+    師一步一步做，勉勉強強能做出一些東西，
+    可能只是還沒跟上速度吧!希望之後的幾堂課
+    能夠慢慢追上。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;覺得還需加強，我給自己打70分。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111030557.12">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;作業14&lt;/h1&gt;
+    &lt;p&gt;40423131 許承恩 W14&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;數列&lt;/h1&gt;
+    &lt;p&gt;我們可以利用python寫出一串數列，且幫助我們從數列裡求出我們需要的資訊&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;["A","B","C", ... ,"Z"]&lt;/h1&gt;
+    &lt;p&gt;len = 數量&lt;/p&gt;
+    &lt;p&gt;print(len(list)) =&gt; 26&lt;/p&gt;
+    &lt;p&gt;import random = 導入亂數&lt;/p&gt;
+    &lt;p&gt;可以進行抽取樣本(看影片)&lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;數列好用，我打個60分&lt;/p&gt;
+&lt;/section&gt;
+	
+    			
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160111030557.3">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第零週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+       &lt;h1&gt;無&lt;/h1&gt;
+&lt;/section&gt;			
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160111030557.4">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第一週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+       &lt;h1&gt;python&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;python是一種電腦語言,比其他電腦語言例如:Java、C++還簡單,
+    而且運用範圍廣大，不只計算、編寫伺服器、正是在學的管理倉
+    儲,都可以用python來完成,並且大部分的python軟體都是免費的!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;剛開始說真的不知道在幹嘛，但照著老
+    師一步一步做，勉勉強強能做出一些東西，
+    可能只是還沒跟上速度吧!希望之後的幾堂課
+    能夠慢慢追上。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;覺得還需加強，我給自己打62分。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160111030557.5">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第二週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;  課程內容&lt;/h1&gt;
+    &lt;h1&gt;如何用引號?&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;上課學了指令"print('___')",這是引號的用法,單、雙引號
+          皆可輸出裡面的指令,在使用英文字串時也要特別小心。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;例如&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    print('HANAKO') 
+    &lt;/br&gt;
+    print("HANAKO") 
+    &lt;/br&gt;
+    得到 HANAKO 
+    &lt;/br&gt;
+    &lt;/br&gt;
+    兩組字串皆相同，只在
+    &lt;/br&gt;
+    於單、雙引號的差別。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;但是&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    print('There's a dog')
+    &lt;/br&gt;
+    &lt;/br&gt;
+    在單引號輸出時，因為There's的字串上有一
+    &lt;/br&gt;
+    個  '  會產生衝突，而視為無效的程式語言，
+    &lt;/br&gt;
+    所以我們應該將單引號改成雙引號即可成功。
+    &lt;/br&gt;
+    &lt;/br&gt;
+    print("There's a dog")
+    &lt;/br&gt;
+    得到 There's a dog &lt;/p&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;這次學到的感覺還不錯，而且課堂上
+    &lt;/br&gt;
+    jupyter密碼是共通的，所以我可以查別人
+    &lt;/br&gt;
+    的IP並在別人的板上留言，滿好玩的哈哈~~&lt;/p&gt;
+    &lt;/section&gt;
+    
+    &lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;有學到東西XD，這次給自己打70分。&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+
+</t>
+<t tx="leo.20160111030557.6">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第三週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+    &lt;h1&gt;  Github&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    GitHub 同時提供付費帳戶和免費帳戶。
+    &lt;/br&gt;
+    這兩種帳戶都可以建立公開的倉庫，
+    &lt;/br&gt;
+    但是付費享有建立私人的倉庫。
+    &lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;Github指令&lt;/h1&gt;
+    &lt;p&gt;........超多&lt;/p&gt;
+    &lt;p&gt;git clone :複製一個專案&lt;/p&gt;
+    &lt;p&gt;git branch :列出所有近端分支&lt;/p&gt;
+    &lt;p&gt;git branch (分支名稱) :建立近端分支&lt;/p&gt;
+    &lt;p&gt;git checkout (分支名稱) :切換近端分支&lt;/p&gt;
+    &lt;p&gt;git add :將現有檔案暫存=(拍快照)&lt;/p&gt;
+    &lt;p&gt;git commit :將暫存檔案建立在一個*節點。&lt;/p&gt;
+    &lt;p&gt;(節點:就是未來你可以回朔及追蹤的參考)&lt;/p&gt;
+    &lt;p&gt;git pull (遠端名稱) (分支名稱)  :下載一個遠端分支並合併於近端&lt;/p&gt;
+    &lt;p&gt;git push :推送分支&lt;/p&gt;  
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    這次學了Github的東西，經過老師的講解之後
+    &lt;/br&gt;
+    才發現其實Github是很方便的，更讓我感受不
+    &lt;/br&gt;
+    一樣的是，全程都是用程式語言來推送資料，
+    &lt;/br&gt;
+    跟以往使用網站做事不同，顯得更專業了一點
+    &lt;/br&gt;
+    又是學到了一課。
+    &lt;/br&gt;
+    另外，在家裡實做不清楚時都會找
+    &lt;/br&gt;
+    &lt;a href="https://backlogtool.com/git-guide/tw/"&gt;連猴子都能懂的Git入門指南&lt;/a&gt;
+    &lt;/br&gt;
+    這個網頁，裡面的講解淺顯易懂很實用。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    這次上課超專心，畢竟教的東西超多，更何況
+    &lt;/br&gt;
+    這次做出成果的成就感超大，給自己評個83分。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160111030557.7">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第四週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+    &lt;h1&gt;Leo Editor Tutorial&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    Leo Editor是一個功能特殊的軟體套件, 不
+    &lt;/br&gt;
+    僅能作為集思廣益用的大綱編輯, 程式編輯
+    &lt;/br&gt;   
+    架構器, 電子書編輯器, 也是絕佳的網站管理
+    &lt;/br&gt;      
+    套件。
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;p&gt; 
+    Leo Editor雖然採用 Python 程式語言開發, 許
+    &lt;/br&gt;
+    多建構理念也都圍繞著 Python 物件開發的特
+    &lt;/br&gt;
+    性打造, 但是編輯管理的內容卻不限於Python 
+    &lt;/br&gt;
+       相關的程式, 而可及於各式複雜的結構化資料 。
+    &lt;/p&gt;
+&lt;/section&gt;
+			
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;
+    以前都只使用網頁而已，從來沒試過編輯網頁
+    &lt;/br&gt;
+    內容，光是內容的排版，就搞得我滿頭是汗。
+    &lt;/br&gt;
+    一直在測試網頁錯了就改，從失敗吸取經驗，
+    &lt;/br&gt;
+    偶爾看看別人的排版，說真的做久就又做越順。
+    &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;/br&gt;
+    &lt;p&gt;評給自己努力的分數嘛，78分吧。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160111030557.8">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第五週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+       &lt;h1&gt;python&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;python是一種電腦語言,比其他電腦語言例如:Java、C++還簡單,
+    而且運用範圍廣大，不只計算、編寫伺服器、正是在學的管理倉
+    儲,都可以用python來完成,並且大部分的python軟體都是免費的!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;剛開始說真的不知道在幹嘛，但照著老
+    師一步一步做，勉勉強強能做出一些東西，
+    可能只是還沒跟上速度吧!希望之後的幾堂課
+    能夠慢慢追上。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;覺得還需加強，我給自己打70分。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111030557.9">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第六週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+       &lt;h1&gt;python&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;python是一種電腦語言,比其他電腦語言例如:Java、C++還簡單,
+    而且運用範圍廣大，不只計算、編寫伺服器、正是在學的管理倉
+    儲,都可以用python來完成,並且大部分的python軟體都是免費的!&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;心得&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;剛開始說真的不知道在幹嘛，但照著老
+    師一步一步做，勉勉強強能做出一些東西，
+    可能只是還沒跟上速度吧!希望之後的幾堂課
+    能夠慢慢追上。&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;br /&gt;
+    &lt;p&gt;覺得還需加強，我給自己打70分。&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
+<t tx="leo.20160115014511.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第十一週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+    &lt;p&gt;今天老師以猜數字遊戲的程式來讓我們學習運用這些程式還可以新增一些功能之類的&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;大綱&lt;/h1&gt;
+    &lt;p&gt;#:單行註解&lt;/p&gt;
+    &lt;p&gt;coding:編碼&lt;/p&gt;
+    &lt;p&gt;import:導入&lt;/p&gt;
+    &lt;p&gt;random:亂數&lt;/p&gt;
+    &lt;p&gt;int:轉成整數&lt;/p&gt;
+    &lt;p&gt;str:字串&lt;/p&gt;
+    &lt;p&gt;float:符點數&lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;更新leo，讓環境更好&lt;/h1&gt;
+    &lt;p&gt;載入fix&lt;/p&gt;
+    &lt;p&gt;將最新的leo載入fix資料夾&lt;/p&gt;
+    &lt;p&gt;白頁打開fix.bat檔&lt;/p&gt;
+    &lt;p&gt;新增行數，打入copy "最新leo" Ana32015\data，並存檔&lt;/p&gt;
+    &lt;p&gt;白頁打開start.bat檔&lt;/p&gt;
+    &lt;p&gt;第35行的網址改成leo的最新版本，存檔&lt;/p&gt;
+    &lt;p&gt;將fix資料夾存在隨身碟，這樣以後到教室只要打開fix，就能使Ana3的工作環境更好&lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;覺得今天的我還不錯，慢慢漸入佳境，我給自己70分&lt;/p&gt;
+&lt;/section&gt;
+	
+    			
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160115014515.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第十二週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;課程內容&lt;/h1&gt;
+    &lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h1&gt;大綱&lt;/h1&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;不知道做啥~&lt;/h1&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+	
+    			
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
+<t tx="leo.20160115014520.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;~~嗚啦啦~~&lt;/h1&gt;
+        &lt;h1&gt;第十三週&lt;/h1&gt;
+    &lt;p&gt;40423131許承恩&lt;/p&gt;
+&lt;/section&gt;
+	
+&lt;section&gt;
+ &lt;h1&gt;猜顏色程式碼&lt;/h1&gt;
+ &lt;p&gt;import random
+# 產生標準答案
+# 利用 list 數列資料型別建立顏色選項
+# Red 紅色, White 白色, Yellow 黃色, Green 綠色, Blue 藍色, Purple 紫色, 假設顏色值不會重複
+print('''遊戲規則說明: 可選顏色值, \nRed 紅色, White 白色, Yellow 黃色, Green 綠色, \nBlue 藍色, Purple 紫色, \nRBYGBP, \nX 表示位置與顏色都對, O 表示顏色對, 但是位置不對.
+''')
+ 
+顏色選項 = ["R", "W", "Y", "G", "B", "P"]
+標準答案 = random.sample(顏色選項, 4)    
+print (標準答案)
+ 
+顏色字串 = ""
+幾次決勝 = 9
+猜測次數 = 0
+遊戲進行中 = True
+  &lt;/section&gt;
+  
+&lt;section&gt;
+ &lt;h1&gt;程式碼2&lt;/h1&gt;
+ &lt;p&gt;print ("總共有", 幾次決勝 - 猜測次數, "次機會,可以猜!")
+  
+for i in range(len(顏色選項)):
+    顏色字串 += 顏色選項[i]
+#print (顏色字串)
+   
+while 遊戲進行中:
+    位置顏色都正確 = ""
+    顏色對位置錯 = ""
+    # 將使用者的輸入轉為大寫英文字母
+    使用者猜測輸入 = input("請從下列顏色值中選四個, "+顏色字串+": ").upper()
+    猜測次數 += 1
+       
+    # 檢驗是否輸入四個顏色字母
+    if len(使用者猜測輸入) != len(標準答案):
+        print ("\n只能猜四個顏色, 請重猜!")
+        print ("\n剩下", 幾次決勝 - 猜測次數, "次機會,可以猜: ")
+        continue
+    # 判斷是否重複選擇相同顏色
+    if len(使用者猜測輸入) &gt; len(set(使用者猜測輸入)):
+        print ("\n顏色值不能重複！")
+        print ("\n剩下", 幾次決勝 - 猜測次數, "次機會,可以猜: ")
+        continue
+         for i in range(4):
+        # 判斷是否從顏色選項輸入
+        if 使用者猜測輸入[i] not in 顏色選項:
+            print ("\n只能從下列顏色選項中輸入!", 顏色選項)
+            print ("\n剩下", 幾次決勝 - 猜測次數, "次機會,可以猜: ")
+            continue&lt;/p&gt;
+  &lt;/section&gt;
+  
+  &lt;section&gt;
+ &lt;h2&gt;程式碼3&lt;/h2&gt;
+ &lt;p&gt;
+
+               
+    if 位置顏色都正確 != "XXXX":
+        for i in range(4):
+            if 使用者猜測輸入[i] == 標準答案[i]:
+                位置顏色都正確 += "X"
+            if  使用者猜測輸入[i] != 標準答案[i] and 使用者猜測輸入[i] in 標準答案:
+                顏色對位置錯 += "O"
+        print (位置顏色都正確 +  顏色對位置錯 + "\n")       
+           
+    if 位置顏色都正確 == "XXXX":
+        if 猜測次數 == 1:
+            print ("太神奇了, 1 次就猜對!")
+        else:
+            print ("還不錯... 總共猜了 " + str(猜測次數) + " 次, 終於猜對!")
+        遊戲進行中 = False
+           
+    if 猜測次數&gt;= 1 and 猜測次數 = 幾次決勝:
+        print ("沒有猜對! 願賭服輸, 答案顏色值為: " + str(標準答案))  
+        遊戲進行中 = False
+   
+    # 詢問要不要再玩
+    while 遊戲進行中 == False:
+        遊戲結束詢問 = input("\n要不要再玩 (Y/N)?").upper()  
+        # 猜測次數歸零
+        猜測次數 = 0
+        if 遊戲結束詢問 =="N":
+            print ("歡迎再回來玩!")
+        elif 遊戲結束詢問 == "Y":
+            遊戲進行中 = True
+            # 重新產生標準答案
+            標準答案 = random.sample(顏色選項, 4)     
+            #print (標準答案)
+            print ("好, 再玩一次...")
+            print ("總共有", 幾次決勝 - 猜測次數, "次機會,可以猜!")&lt;/p&gt;
+  &lt;/section&gt;
+  
+  
+  
+ 
+ &lt;section&gt;
+ &lt;h1&gt;心得&lt;/h1&gt;
+ &lt;p&gt;從最初的猜數字到最近的猜顏色!真的是越來越難了!!希望我可以把它給學起來!才不會白費老師的苦心阿:)))&lt;/p&gt;
+ &lt;/section&gt;
+   
+ &lt;section&gt;
+ &lt;h1&gt;自評&lt;/h1&gt;
+ &lt;p&gt;60分!!我會更加努力的&lt;/p&gt;
+ &lt;/section&gt;  
+  
+
+  
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+</t>
 </tnodes>
 </leo_file>
